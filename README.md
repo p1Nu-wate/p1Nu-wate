@@ -7,16 +7,15 @@
 |  key  |  value  |
 | ---- | ---- |
 |  Name  |  Hiratsuka T Romeo  |
-<!-- |  note  |  [@yagi_eng](https://note.com/yagi_eng) |
-|  Twitter  |  [@yagi_eng](https://twitter.com/yagi_eng)  | -->
-
+|  Twitter  |  [@rnanaoplusmkai1](https://twitter.com/rnanaoplusmkai1)  | 
+<!-- |  note  |  [@yagi_eng](https://note.com/yagi_eng) |-->
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=watelia.watelia)
 
 [![Github](https://img.shields.io/github/followers/watelia?label=Follow&style=social)](https://github.com/watelia)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=watelia5&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=watelia&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watelia&theme=tokyonight)
 
