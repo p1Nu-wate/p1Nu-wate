@@ -18,5 +18,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=watelia&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watelia&theme=tokyonight)
-
-[![github-chart](https://github-chart.vercel.app/api?user=watelia)](https://github.com/rokumura7/github-chart)
