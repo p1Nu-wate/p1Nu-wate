@@ -8,13 +8,15 @@
 | ---- | ---- |
 |  Name  |  Hiratsuka T Romeo  |
 |  Twitter  |  [@rnanaoplusmkai1](https://twitter.com/rnanaoplusmkai1)  | 
-<!-- |  note  |  [@yagi_eng](https://note.com/yagi_eng) |-->
+|  note  |  [馬を被ったかいちょう](https://note.com/kaicho_of_on7) |
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=watelia.watelia)
 
 [![Github](https://img.shields.io/github/followers/watelia?label=Follow&style=social)](https://github.com/watelia)
 
+<p align="left"> 
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=watelia&layout=compact&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=watelia&show_icons=true&theme=tokyonight" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=watelia&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watelia&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=watelia&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
