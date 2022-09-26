@@ -1,14 +1,14 @@
 # Hi there👋
 
-🏫 I am watelia, Univercity student who learn Electrical Engineering in Japan.
+🏫 I am watelia, Univercity student learning Electrical Engineering in Japan.
 
 🌱 I learned Web Design(HTML,CSS,JS) at [ZeroPlus](https://zero-plus.io/) as a member of 7th gen(online) student.
 
 |  key  |  value  |
 | ---- | ---- |
-|  Name  |  Hiratsuka T Romeo  |
-<-- |  Twitter  |  [@rnanaoplusmkai1](https://twitter.com/rnanaoplusmkai1)  |  -->
-|  note  |  [馬を被ったかいちょう](https://note.com/kaicho_of_on7) |
+|  Name  |  watelia  |
+|  Twitter  |  [@rnanaoplusmkai1](https://twitter.com/rnanaoplusmkai1)  |  
+<!-- |  note  |  [馬を被ったかいちょう](https://note.com/kaicho_of_on7) | -->
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=watelia.watelia)
 
