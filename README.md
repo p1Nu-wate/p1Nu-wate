@@ -10,7 +10,7 @@
    - Vue.js
    - Next.js
    - Laravel
-   - Flutter and so on
+   - Flutter       and so on
 
 |  key  |  value  |
 | ---- | ---- |
