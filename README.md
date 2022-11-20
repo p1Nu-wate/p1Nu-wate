@@ -7,10 +7,7 @@
 🌱 I am learning and practicing server-side development
 
 👀 I am insterested in ...
-   - Vue.js
-   - Next.js
-   - Laravel
-   - Flutter       and so on
+   - Vue.js / Next.js / Laravel / Flutter and so on
 
 |  key  |  value  |
 | ---- | ---- |
