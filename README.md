@@ -2,7 +2,15 @@
 
 🏫 I am watelia, Univercity student learning Electrical Engineering in Japan.
 
-🌱 I learned Web Design(HTML,CSS,JS) at [ZeroPlus](https://zero-plus.io/) as a member of 7th gen(online) student.
+🌱 I learned Web Design(HTML,CSS,JS)
+
+🌱 I am learning and practicing server-side development
+
+👀 I am insterested in ...
+   - Vue.js
+   - Next.js
+   - Laravel
+   - Flutter and so on
 
 |  key  |  value  |
 | ---- | ---- |
