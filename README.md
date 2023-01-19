@@ -15,10 +15,3 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=watelia.watelia)
 
 [![Github](https://img.shields.io/github/followers/watelia?label=Follow&style=social)](https://github.com/watelia)
-
-<p align="left"> 
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=watelia&layout=compact&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=watelia&show_icons=true&theme=tokyonight" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=watelia&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
