@@ -9,8 +9,6 @@
 |  key  |  value  |
 | ---- | ---- |
 |  Name  |  watelia  |
-|  Twitter  |  [@rnanaoplusmkai1](https://twitter.com/rnanaoplusmkai1)  |  
-<!-- |  note  |  [馬を被ったかいちょう](https://note.com/kaicho_of_on7) | -->
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=watelia.watelia)
 
