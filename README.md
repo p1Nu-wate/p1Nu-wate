@@ -9,9 +9,9 @@
 Lately, been writing frequently on Note.  
 
 |  key  |  value  |
-| ---- | ---- |
+| :----: | :----: |
 |  Name  |  watelia  |
-| Note | [here](https://note.com/g_volvo) |
+| note | [here](https://note.com/g_volvo) |
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=watelia.watelia)
 
