@@ -16,3 +16,5 @@ Lately, been writing frequently on Note.
 ![](https://visitor-badge.laobi.icu/badge?page_id=watelia.watelia)
 
 [![Github](https://img.shields.io/github/followers/watelia?label=Follow&style=social)](https://github.com/watelia)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watelia)](https://github.com/watelia/github-readme-stats)
