@@ -2,7 +2,7 @@
 
 🏫 I am watelia, Univercity student learning Electrical Engineering, especially  information communication engineering in Japan.
 
-🌱 I learned Web Design(HTML,CSS,JS), founfamental algorithm
+🌱 I learned Web Design(HTML,CSS,JS), foundamental algorithm
 
 🌱 I am learning and practicing server-side development
 
