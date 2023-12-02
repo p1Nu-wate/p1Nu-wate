@@ -6,15 +6,12 @@
 
 🌱 I am learning and practicing server-side development
 
-Lately, been writing frequently on Note.  
+ 
 
-|  key  |  value  |
-| :----: | :----: |
-|  Name  |  watelia  |
-| note | [here](https://note.com/g_volvo) |
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1Nu-wate&layout=compact&theme=dark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=p1Nu-wate&theme=dark&show_icons=true" />
+</p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=watelia.watelia)
 
-[![Github](https://img.shields.io/github/followers/watelia?label=Follow&style=social)](https://github.com/watelia)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watelia)](https://github.com/watelia/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=p1Nu-wate&theme=onedark&column=6)](https://github.com/p1Nu-wate)
